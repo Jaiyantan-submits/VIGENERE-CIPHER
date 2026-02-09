@@ -61,7 +61,7 @@ void vigenereCipher(char *text, char *key, int decrypt) {
 }
 
 int main() {
-    char text[] = "karthick";
+    char text[] = "jaiyantan";
     char key[] = "KEY";
 
     for (int i = 0; text[i]; i++) text[i] = toupper(text[i]);
@@ -76,11 +76,12 @@ int main() {
     return 0;
 }
 
+
 ```
 
-## OUTPUT
+## OUTPUT :-
 
-<img width="1842" height="875" alt="image" src="https://github.com/user-attachments/assets/b75ebd86-9c68-4a1c-8bfa-3a9469adc7b9" />
+<img width="1859" height="813" alt="exp4" src="https://github.com/user-attachments/assets/c42199c5-95d7-4f80-9162-d0cbd36f6b66" />
 
 ## RESULT
 
